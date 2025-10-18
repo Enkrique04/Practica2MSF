@@ -2,8 +2,8 @@
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+## Información del estudiante
+Ian E. Estrada [22211753]; l22211753@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
